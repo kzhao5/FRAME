@@ -1,4 +1,4 @@
-# ForensicFusion (practical project scaffold)
+# FRAME: Forensic Routing and Adaptive Multi-path Evidence Fusion for Image Manipulation Detection
 
 This repository is a **practical implementation scaffold** for the ForensicFusion idea in the workshop draft:
 
